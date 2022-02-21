@@ -1,5 +1,30 @@
 [
   {
+    "waktu": "21/02/2022 23:22:35 WIB",
+    "lintang": "8.03 LS",
+    "bujur": "120.73 BT",
+    "magnitudo": "5.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 71 km TimurLaut Ruteng-Manggarai",
+    "warning": [
+      "III Ruteng",
+      "III Labuan Bajo",
+      "II Waingapu"
+    ]
+  },
+  {
+    "waktu": "21/02/2022 22:05:15 WIB",
+    "lintang": "8.08 LS",
+    "bujur": "120.74 BT",
+    "magnitudo": "4.9",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 66 km TimurLaut Ruteng-Manggarai",
+    "warning": [
+      "II Ruteng",
+      "II Labuan Bajo"
+    ]
+  },
+  {
     "waktu": "21/02/2022 20:28:13 WIB",
     "lintang": "8.02 LS",
     "bujur": "120.75 BT",
@@ -211,29 +236,6 @@
       "III Lombok Utara",
       "III Mataram",
       "III Lombok Barat"
-    ]
-  },
-  {
-    "waktu": "08/02/2022 07:29:30 WIB",
-    "lintang": "2.52 LS",
-    "bujur": "140.55 BT",
-    "magnitudo": "3.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 8 km barat laut Kota Jayapura",
-    "warning": [
-      "II-III Kabupaten Jayapura",
-      "II Kota Jayapura"
-    ]
-  },
-  {
-    "waktu": "07/02/2022 04:31:20 WIB",
-    "lintang": "0.32 LU",
-    "bujur": "122.35 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "114 Km",
-    "wilayah": "Pusat gempa berada di laut 23 km Tenggara Boalemo",
-    "warning": [
-      "III Boalemo"
     ]
   }
 ]
