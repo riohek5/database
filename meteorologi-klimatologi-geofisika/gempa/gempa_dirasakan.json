@@ -1,5 +1,54 @@
 [
   {
+    "waktu": "14/03/2022 04:38:43 WIB",
+    "lintang": "0.66 LS",
+    "bujur": "98.45 BT",
+    "magnitudo": "6",
+    "kedalaman": "26 Km",
+    "wilayah": "Pusat gempa berada di laut 154 km tenggara Nias Selatan",
+    "warning": [
+      "IV Nias Selatan",
+      "III Padang",
+      "III Siberut",
+      "III Gunungsitoli",
+      "II Padang Panjang",
+      "II Pariaman"
+    ]
+  },
+  {
+    "waktu": "14/03/2022 04:09:21 WIB",
+    "lintang": "0.71 LS",
+    "bujur": "98.5 BT",
+    "magnitudo": "6.9",
+    "kedalaman": "25 Km",
+    "wilayah": "Pusat gempa berada di laut 161 km Tenggara NiasSelatan",
+    "warning": [
+      "IV Padang",
+      "IV Siberut",
+      "IV Nias Selatan",
+      "IV Gunungsitoli",
+      "III Padang Panjang",
+      "III Bukit Tinggi",
+      "III Pasaman Barat",
+      "III Tua Pejat",
+      "III Pariaman",
+      "II Dhamasraya",
+      "II Payakumbuh",
+      "II Kerinci",
+      "II Tapanuli Selatan",
+      "II Pesisir Selatan",
+      "II Batusangkar",
+      "II Padang Pariaman",
+      "II Solok",
+      "VI Hibala",
+      "V Pulau-pulau batu",
+      "V Pulau-pulau batu barat",
+      "V Tanah masa",
+      "V Siberut utara",
+      "V Siberut barat"
+    ]
+  },
+  {
     "waktu": "13/03/2022 19:46:37 WIB",
     "lintang": "7.22 LS",
     "bujur": "107.6 BT",
@@ -228,40 +277,6 @@
     "warning": [
       "II-III Onembute",
       "II-III Rate-rate"
-    ]
-  },
-  {
-    "waktu": "04/03/2022 20:14:19 WIB",
-    "lintang": "7.06 LS",
-    "bujur": "105.38 BT",
-    "magnitudo": "4.9",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di laut 49 km baratdaya Sumur",
-    "warning": [
-      "III Sumur",
-      "III Cibaliung",
-      "III Cimanggu",
-      "III Panimbang",
-      "III Cikuesik",
-      "III Muarabinuangeun",
-      "III Jiput",
-      "III Picung",
-      "III Munjul",
-      "II-III Malimping",
-      "II-III Panggarangan",
-      "II-III Sajira"
-    ]
-  },
-  {
-    "waktu": "04/03/2022 14:00:33 WIB",
-    "lintang": "9.72 LS",
-    "bujur": "120.26 BT",
-    "magnitudo": "5.3",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 6 Km baratdaya Waingapu",
-    "warning": [
-      "III Labuan Bajo",
-      "II Tambolaka"
     ]
   }
 ]
