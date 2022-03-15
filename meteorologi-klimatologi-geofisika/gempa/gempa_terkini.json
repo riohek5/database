@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "15-03-22 19:12:30 WIB",
+    "lintang": "-0.55",
+    "bujur": "98.47",
+    "magnitudo": "5.3",
+    "kedalaman": "25 Km",
+    "wilayah": "144 km Tenggara NIASSELATAN-SUMUT"
+  },
+  {
     "waktu": "14-03-22 21:12:10 WIB",
     "lintang": "-0.56",
     "bujur": "98.54",
@@ -230,13 +238,5 @@
     "magnitudo": "5.3",
     "kedalaman": "10 Km",
     "wilayah": "249 km BaratDaya KAB-PANGANDARAN-JABAR"
-  },
-  {
-    "waktu": "15-02-22 06:56:29 WIB",
-    "lintang": "-8.53",
-    "bujur": "134.94",
-    "magnitudo": "5.1",
-    "kedalaman": "129 Km",
-    "wilayah": "317 km Tenggara KEP.ARU-MALUKU"
   }
 ]
