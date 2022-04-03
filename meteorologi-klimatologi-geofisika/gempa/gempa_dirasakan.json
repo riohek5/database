@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "03/04/2022 08:01:42 WIB",
+    "lintang": "2.38 LS",
+    "bujur": "140.38 BT",
+    "magnitudo": "4.4",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 89 km TimurLaut Kab. Jayapura",
+    "warning": [
+      "III Kota Jayapura"
+    ]
+  },
+  {
     "waktu": "02/04/2022 13:37:18 WIB",
     "lintang": "3.87 LS",
     "bujur": "122.65 BT",
@@ -229,20 +240,6 @@
       "III Kendari",
       "II-III Kolaka",
       "II-III Unaaha"
-    ]
-  },
-  {
-    "waktu": "26/03/2022 20:16:40 WIB",
-    "lintang": "3.83 LS",
-    "bujur": "122.69 BT",
-    "magnitudo": "5.2",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di laut 27 km Timur Laut Kendari",
-    "warning": [
-      "IV Kendari",
-      "III Kolaka",
-      "III-IV Konawe",
-      "III-IV Konawe Selatan"
     ]
   }
 ]
