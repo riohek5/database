@@ -1,5 +1,13 @@
 [
   {
+    "waktu": "17-04-22 17:04:10 WIB",
+    "lintang": "-9.95",
+    "bujur": "117.95",
+    "magnitudo": "5.1",
+    "kedalaman": "10 Km",
+    "wilayah": "121 km BaratDaya KODI-SUMBABARATDAYA-NTT"
+  },
+  {
     "waktu": "17-04-22 12:49:29 WIB",
     "lintang": "-1.24",
     "bujur": "137.04",
@@ -230,13 +238,5 @@
     "magnitudo": "5.2",
     "kedalaman": "15 Km",
     "wilayah": "41 km BaratDaya MEULABOH-ACEHBARAT"
-  },
-  {
-    "waktu": "09-03-22 08:49:18 WIB",
-    "lintang": "2.57",
-    "bujur": "128.43",
-    "magnitudo": "5.2",
-    "kedalaman": "14 Km",
-    "wilayah": "60 km TimurLaut DARUBA-MALUT"
   }
 ]
