@@ -1,5 +1,30 @@
 [
   {
+    "waktu": "11/05/2022 09:18:55 WIB",
+    "lintang": "3.78 LS",
+    "bujur": "119.4 BT",
+    "magnitudo": "3.9",
+    "kedalaman": "7 Km",
+    "wilayah": "Pusat gempa berada di laut 22 km barat daya Pinrang",
+    "warning": [
+      "III-IV Pinrang",
+      "II Pare-Pare",
+      "II Majene",
+      "II Polman"
+    ]
+  },
+  {
+    "waktu": "11/05/2022 08:37:55 WIB",
+    "lintang": "8.64 LS",
+    "bujur": "120.46 BT",
+    "magnitudo": "3.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 3 km barat daya Ruteng",
+    "warning": [
+      "III-IV Ruteng"
+    ]
+  },
+  {
     "waktu": "11/05/2022 08:34:27 WIB",
     "lintang": "8.62 LS",
     "bujur": "120.48 BT",
@@ -214,28 +239,6 @@
     "wilayah": "Pusat gempa berada di darat 22 km Tenggara Pesawaran",
     "warning": [
       "II - III Lempasing"
-    ]
-  },
-  {
-    "waktu": "03/05/2022 21:44:58 WIB",
-    "lintang": "5.73 LS",
-    "bujur": "105.42 BT",
-    "magnitudo": "2.2",
-    "kedalaman": "4 Km",
-    "wilayah": "Pusat gempa berada di laut 18 km Barat Daya Lampung Selatan",
-    "warning": [
-      "II Lempasing"
-    ]
-  },
-  {
-    "waktu": "03/05/2022 20:20:46 WIB",
-    "lintang": "5.4 LS",
-    "bujur": "105.22 BT",
-    "magnitudo": "2.5",
-    "kedalaman": "10 Km",
-    "wilayah": "Pusat gempa berada di darat 16 km Tenggara Pesawaran",
-    "warning": [
-      "II Teluk Betung"
     ]
   }
 ]
