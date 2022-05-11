@@ -1,5 +1,16 @@
 [
   {
+    "waktu": "11/05/2022 08:34:27 WIB",
+    "lintang": "8.62 LS",
+    "bujur": "120.48 BT",
+    "magnitudo": "3.5",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di darat 1 km tenggara Ruteng, Manggarai",
+    "warning": [
+      "III-IV Ruteng"
+    ]
+  },
+  {
     "waktu": "10/05/2022 03:54:11 WIB",
     "lintang": "0.64 LU",
     "bujur": "122.15 BT",
@@ -225,17 +236,6 @@
     "wilayah": "Pusat gempa berada di darat 16 km Tenggara Pesawaran",
     "warning": [
       "II Teluk Betung"
-    ]
-  },
-  {
-    "waktu": "03/05/2022 04:51:46 WIB",
-    "lintang": "2.44 LU",
-    "bujur": "128.48 BT",
-    "magnitudo": "4.7",
-    "kedalaman": "23 Km",
-    "wilayah": "Pusat gempa berada di darat 48 km Timur laut Daruba",
-    "warning": [
-      "II - III Morotai Utara"
     ]
   }
 ]
