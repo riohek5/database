@@ -1,5 +1,31 @@
 [
   {
+    "waktu": "23/07/2022 14:35:46 WIB",
+    "lintang": "7.57 LS",
+    "bujur": "122.45 BT",
+    "magnitudo": "5.7",
+    "kedalaman": "13 Km",
+    "wilayah": "Pusat gempa berada di laut 100 km barat laut Larantuka",
+    "warning": [
+      "III Ende",
+      "III Maumere",
+      "III Larantuka",
+      "III Lewoleba",
+      "II - III Pulau Kalaotoa"
+    ]
+  },
+  {
+    "waktu": "23/07/2022 13:45:03 WIB",
+    "lintang": "7.57 LS",
+    "bujur": "122.45 BT",
+    "magnitudo": "4.6",
+    "kedalaman": "10 Km",
+    "wilayah": "Pusat gempa berada di laut 100 km Barat Laut Larantuka",
+    "warning": [
+      "I - II Ende"
+    ]
+  },
+  {
     "waktu": "23/07/2022 13:09:17 WIB",
     "lintang": "7.65 LS",
     "bujur": "122.43 BT",
@@ -11,7 +37,8 @@
       "II - III Maumere",
       "III Larantuka",
       "III Lewoleba",
-      "III Adonara"
+      "III Adonara",
+      "III Mbay-Nagekeo"
     ]
   },
   {
@@ -233,28 +260,6 @@
     "warning": [
       "II-III Sigli",
       "II-III Bireuen"
-    ]
-  },
-  {
-    "waktu": "14/07/2022 18:37:40 WIB",
-    "lintang": "0.69 LU",
-    "bujur": "117.71 BT",
-    "magnitudo": "3.8",
-    "kedalaman": "29 Km",
-    "wilayah": "Pusat gempa berada di darat 65 km TimurLaut Bontang",
-    "warning": [
-      "II Bontang"
-    ]
-  },
-  {
-    "waktu": "14/07/2022 13:30:59 WIB",
-    "lintang": "6.88 LS",
-    "bujur": "106.84 BT",
-    "magnitudo": "3.3",
-    "kedalaman": "13 Km",
-    "wilayah": "Pusat gempa berada di darat 10 km BaratLaut Kota Sukabumi",
-    "warning": [
-      "II - III Cibadak"
     ]
   }
 ]
